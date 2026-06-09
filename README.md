@@ -28,6 +28,14 @@ The project is intended for trusted local networks and prioritizes simplicity, l
 
 ---
 
+## Screenshots
+
+![Home Screen](screenshots/home_screen.jpg)
+![Configuration Screen](screenshots/configuration_screen.jpg)
+![About Screen](screenshots/about_screen.jpg)
+
+---
+
 ## Architecture
 
 ```text
