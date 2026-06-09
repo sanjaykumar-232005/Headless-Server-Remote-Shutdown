@@ -1,0 +1,67 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer glowing red circle with a gap for the lightning bolt -->
+    <path
+        android:strokeColor="#FF1E1E"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:pathData="M 54,23 A 31 31 0 1 0 76.5,75.5" />
+
+    <!-- Sharp striking neon red lightning bolt in the bottom right corner -->
+    <path
+        android:fillColor="#FF1E1E"
+        android:strokeColor="#FF2020"
+        android:strokeWidth="0.5"
+        android:strokeLineJoin="miter"
+        android:pathData="M 83,55 L 68,70 L 75,70 L 53,86 L 66,73 L 60,73 Z" />
+
+    <!-- WiFi signal waves above the monitor, centered at x=54 -->
+    <!-- Dot of the transmission source -->
+    <path
+        android:fillColor="#FF1E1E"
+        android:pathData="M 54,41.5 A 1.5 1.5 0 1 1 53.99,41.5" />
+        
+    <!-- First ring arc (WiFi inner wave) -->
+    <path
+        android:strokeColor="#FF1E1E"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round"
+        android:pathData="M 50,37.5 Q 54,33.5 58,37.5" />
+        
+    <!-- Second ring arc (WiFi outer wave) -->
+    <path
+        android:strokeColor="#FF1E1E"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round"
+        android:pathData="M 46,33.5 Q 54,28 62,33.5" />
+
+    <!-- Computer Monitor: Screen centered -->
+    <path
+        android:strokeColor="#FF1E1E"
+        android:strokeWidth="2.8"
+        android:strokeLineJoin="round"
+        android:pathData="M 37,46 L 71,46 A 2 2 0 0 1 73,48 L 73,60 A 2 2 0 0 1 71,62 L 37,62 A 2 2 0 0 1 35,60 L 35,48 A 2 2 0 0 1 37,46 Z" />
+        
+    <!-- Monitor Stand -->
+    <path
+        android:fillColor="#FF1E1E"
+        android:pathData="M 51,62 L 57,62 L 58,66 L 62,66 A 1 1 0 0 1 62,68 L 46,68 A 1 1 0 0 1 46,66 L 50,66 Z" />
+
+    <!-- Power button symbol inside monitor screen center (54, 54) -->
+    <path
+        android:strokeColor="#FF1E1E"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round"
+        android:pathData="M 51.2,53.2 A 3.2 3.2 0 1 0 56.8,53.2" />
+        
+    <path
+        android:strokeColor="#FF1E1E"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round"
+        android:pathData="M 54,50.5 L 54,55" />
+
+</vector>
