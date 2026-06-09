@@ -30,9 +30,24 @@ The project is intended for trusted local networks and prioritizes simplicity, l
 
 ## Screenshots
 
-![Home Screen](screenshots/home_screen.jpg)
-![Configuration Screen](screenshots/configuration_screen.jpg)
-![About Screen](screenshots/about_screen.jpg)
+<table align="center">
+<tr>
+<td align="center">
+<img src="screenshots/home_screen.jpg" width="250"><br>
+<b>Home Screen</b>
+</td>
+
+<td align="center">
+<img src="screenshots/configuration_screen.jpg" width="250"><br>
+<b>Configuration Screen</b>
+</td>
+
+<td align="center">
+<img src="screenshots/about_screen.jpg" width="250"><br>
+<b>About Screen</b>
+</td>
+</tr>
+</table>
 
 ---
 
